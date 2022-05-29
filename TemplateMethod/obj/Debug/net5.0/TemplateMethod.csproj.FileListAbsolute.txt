@@ -1,0 +1,15 @@
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfo.cs
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.exe
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.deps.json
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.json
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.dev.json
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.dll
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\ref\TemplateMethod.dll
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.pdb
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.dll
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\ref\TemplateMethod.dll
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.pdb
+C:\Projetos_CSharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.genruntimeconfig.cache
